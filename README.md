@@ -2,8 +2,6 @@
 
 ### 정보보호학전공
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junghyunkim329" alt="junghyunkim329" /></a> </p>
-
 - 🔭 I'm currently working on **개인 포트폴리오 사이트**
 
 - 🌱 I'm currently learning **- HTML + CSS + JS
