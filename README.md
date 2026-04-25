@@ -4,8 +4,7 @@
 
 - 🔭 I'm currently working on **개인 포트폴리오 사이트**
 
-- 🌱 I'm currently learning **- HTML + CSS + JS
-- 차량 보안 제품 개발**
+- 🌱 I'm currently learning **- HTML + CSS + JS / 차량 보안 제품 개발**
 
 - 📫 How to reach me **shshjang14@gmail.com**
 
