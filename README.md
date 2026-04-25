@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **shshjang14@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://kim-s-flame.vercel.app/](https://kim-s-flame.vercel.app/)**
+- 👨‍💻 All of my projects are available at **https://kim-s-flame.vercel.app/**
 
-- 📝 I regularly write articles on **[https://shshjang14.tistory.com/](https://shshjang14.tistory.com/)**
+- 📝 I regularly write articles on **https://shshjang14.tistory.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
