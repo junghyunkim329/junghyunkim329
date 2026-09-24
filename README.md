@@ -1,21 +1,17 @@
 # Hi 👋, I'm Kim JungHyun
 
-- 📫 How to reach me **shshjang14@gmail.com**
+- Information Security Student
+- Interested in System Hacking & CTF
+- Python, C, Linux
 
-- 👨‍💻 All of my projects are available at **https://kim-s-flame.vercel.app/**
+## Languages and Tools
 
-- 📝 I regularly write articles on **https://shshjang14.tistory.com/**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=c,python,linux,bash,git" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junghyunkim329&show_icons=true&locale=en&layout=compact" alt="junghyunkim329" /></p>
+## Contact
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junghyunkim329&show_icons=true&locale=en" alt="junghyunkim329" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junghyunkim329&" alt="junghyunkim329" /></p>
-
-
+- Email: shshjang14@gmail.com
+- Blog: https://shshjang14.tistory.com
+- Portfolio: https://kim-s-flame.vercel.app
