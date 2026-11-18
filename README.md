@@ -14,4 +14,3 @@
 
 - Email: shshjang14@gmail.com
 - Blog: https://shshjang14.tistory.com
-- Portfolio: https://kim-s-flame.vercel.app
